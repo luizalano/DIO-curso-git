@@ -1,6 +1,4 @@
-# Título nível 1
-## Título nível 2
-### Título nível 3
-#### Título nível 4
-##### Título nível 5
-###### Título nível 6
+# Projeto para o curso de Git do DIO
+
+Não deve contar nada de funcional, também.
+
